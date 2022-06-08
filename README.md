@@ -32,7 +32,7 @@
 1. User registers, providing their information, dating preferences and an image of themselves. Input is validated through joi before being submited.
 2. User data is compiled into an object, which includes a randomly generated user_id. User_id is the main anchor for refering to users, respectively.
     - User data is stored in SQL, to be pulled when required.
-3. User can then review other users in matching. Upon loading said page, an algorithm creates a copy of the entire users object - with incompatible users filtered out and sorted with most compatible users first.
+3. User can then review other users in matching. Upon loading said page, an algorithm creates a copy of the entire users object - with incompatible users filtered out and sorted with most compatible users first. Filters can be switched on/off by user.
     - Filtering: A number of filters remove members who concretely do not match user's criteria (and vice-versa). 
       - E.g. member lives beyond user's stated minimum distance.
     - Sorting: Applies points based on compatibility for flexible criteria, and organises list with most-compatible first.
