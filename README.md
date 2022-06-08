@@ -1,6 +1,6 @@
 # Find-Sparks Dating App - back-end
 
-[Dating site](https://findsparks.uk/) built to learn and demonstrate ability to code more complex applications. Seen front-end [here]https://github.com/ArdalanJaf/find-sparks).
+[Dating site](https://findsparks.uk/) built to learn and demonstrate ability to code more complex applications. Seen front-end [here](https://github.com/ArdalanJaf/find-sparks).
 
 ## Software
 
